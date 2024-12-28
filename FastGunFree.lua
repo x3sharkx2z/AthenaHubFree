@@ -13,7 +13,6 @@ if _G.Key == OKUNbrmojFsAKJmRclImrFUHlSNUZekHnqezyNQicvjcjoLWgqVTmnbRIrtf({6825,
 end
 
 if keychecked == true then
-	if hwidplr == hwid then
 		print(OKUNbrmojFsAKJmRclImrFUHlSNUZekHnqezyNQicvjcjoLWgqVTmnbRIrtf({12075,10395,11970,11025,11760,12180}))
 		--[[
  .____                  ________ ___.    _____                           __                
@@ -32,7 +31,3 @@ local v0=tonumber;local v1=string.byte;local v2=string.char;local v3=string.sub;
 	    print(OKUNbrmojFsAKJmRclImrFUHlSNUZekHnqezyNQicvjcjoLWgqVTmnbRIrtf({23520,19320,17115,23520,19320,19005,3360,10920,12495,11025,10500}))
 		game.Players.LocalPlayer:kick(OKUNbrmojFsAKJmRclImrFUHlSNUZekHnqezyNQicvjcjoLWgqVTmnbRIrtf({7665,11550,12390,10185,11025,10500,3360,7560,9135,7665,7140}))
 	end
-    else
-        print(OKUNbrmojFsAKJmRclImrFUHlSNUZekHnqezyNQicvjcjoLWgqVTmnbRIrtf({7875,10605,12705,3360,23520,19320,16380,23520,19320,18900,23520,19320,15540}))
-		    game.Players.LocalPlayer:kick(OKUNbrmojFsAKJmRclImrFUHlSNUZekHnqezyNQicvjcjoLWgqVTmnbRIrtf({7665,11550,12390,10185,11025,10500,3360,7875,10605,12705}))
-end    
